@@ -1,0 +1,21 @@
+<form [formGroup]="addStudentForm" (submit)="addStudent()" >
+  <div class="container">
+    <h1>Register</h1>
+
+    <label for="firstName"><b>First name</b></label>
+    <input formControlName="firstName"  type="text" placeholder="Enter First Name" name="firstname" id="firstname" >
+
+    <label for="lastName"><b>Last name</b></label>
+    <input formControlName="lastName"  type="text" placeholder="Enter Last name" name="lastName" id="lastName" >
+
+    <label for="email"><b>Email</b></label>
+    <input formControlName="email" type="email" placeholder="Enter Email" name="email" id="email" >
+
+    <label for="major"><b>Major</b></label>
+    <input formControlName="major" type="text" placeholder="Enter Major" name="major" id="major" >
+
+
+    <button type="submit" class="registerbtn">Add</button>
+  </div>
+
+</form>
