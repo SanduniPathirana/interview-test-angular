@@ -17,8 +17,8 @@ We ask that you spend two hours to do this test and start by taking a Fork of th
 Please enter/replace your details below.
 |   |   |
 | - | - |
-| Name | John Smith |
-| Date | 2022-03-21 |
+| Name | Sanduni Pathirana |
+| Date | 2022-04-19 |
 | Start Time | 00:30+13:00 |
 | Finish Time | 02:15+13:00 |
 
